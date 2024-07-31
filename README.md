@@ -1,5 +1,6 @@
 # ML-project
-This is my first Git repository.
+This is my first Git repository. 
+This ML project based on Wine Quality Prediction Using SVC.
 
 # Wine Quality Prediction
 This repository contains a machine learning project aimed at predicting the quality of wine based on its chemical attributes. The project utilizes various machine learning models to classify wine quality, providing insights into the factors that contribute to higher quality wine.
